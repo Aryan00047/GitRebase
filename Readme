@@ -1,3 +1,5 @@
 First main branch is created then feature branch.
 Feature branch was created on second commit of main branch.
 After creating feature branch I have done 2 commits and then will apply rebase.
+Press :wq to confirm merge and get out of that cmd
+Press :q! to exit without saving and press enter
